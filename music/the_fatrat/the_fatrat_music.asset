@@ -1,0 +1,59 @@
+music = {
+	name = "thefatrat_elegy"
+	file = "TheFatRat-Elegy.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_epic"
+	file = "TheFatRat-Epic.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_flyaway"
+	file = "TheFatRat-Fly+AwayOriginal.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_infinite"
+	file = "TheFatRat-Infinite+Power.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_jackpot"
+	file = "TheFatRat-Jackpot.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_monody"
+	file = "TheFatRat-Monody+(feat.+Laura+Brehm).ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_oblivion"
+	file = "TheFatRat-Oblivion+feat.+Lola+Blanc.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_prelude_vqa"
+	file = "TheFatRat-Prelude (Q&A version).ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_prelude_vip"
+	file = "TheFatRat-Prelude+(VIP+Edit+feat.+JJD).ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "thefatrat_timelapse"
+	file = "TheFatRat-Time+Lapse.ogg"
+	volume = 0.7
+}

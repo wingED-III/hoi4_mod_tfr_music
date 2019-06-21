@@ -1,0 +1,59 @@
+
+music_station = "thefatrat"
+
+music = {
+	song = "thefatrat_elegy"
+	chance = {
+		modifier = {
+			factor = 1 #default
+			#has_war = yes
+			#has_government = communism
+		}		
+	}	
+
+}
+
+music = {
+	song = "thefatrat_epic"
+
+}
+
+music = {
+	song = "thefatrat_flyaway"
+
+}
+
+music = {
+	song = "thefatrat_infinite"
+
+}
+
+music = {
+	song = "thefatrat_jackpot"
+
+}
+
+music = {
+	song = "thefatrat_monody"
+
+}
+
+music = {
+	song = "thefatrat_oblivion"
+
+}
+
+music = {
+	song = "thefatrat_prelude_vqa"
+
+}
+
+music = {
+	song = "thefatrat_prelude_vip"
+
+}
+
+music = {
+	song = "thefatrat_timelapse"
+
+}
