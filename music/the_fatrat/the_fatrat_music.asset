@@ -57,3 +57,19 @@ music = {
 	file = "TheFatRat-Time+Lapse.ogg"
 	volume = 0.7
 }
+
+music = {
+	name = "thefatrat_windfall"
+	file = "TheFatRat - Windfall.ogg"
+	volume = 0.7
+}
+music = {
+	name = "thefatrat_xenogenesis"
+	file = "TheFatRat - Xenogenesis.ogg"
+	volume = 0.7
+}
+music = {
+	name = "thefatrat_unity_old"
+	file = "TheFatRat - Unity old version.ogg"
+	volume = 0.7
+}

@@ -1,7 +1,7 @@
 ﻿l_english:
  # SHOULD NOT BE TRANSLATED FROM ENGLISH
 
- # HOI4 Soundtrack
+# HOI4 Soundtrack
  maintheme:0 "Main Theme - Allies"
  axis_war_1:0 "Axis Theme"
  allies_peace_1:0 "Morning of D-day"
@@ -63,7 +63,7 @@
  unitednations:0 "United Nations"
  unitylow:0 "Unity Low"
  wearefree:0 "We Are Free"
-
+ 
  # NEW MUSIC NAMES HERE BELOW
 
  # The fatrat
@@ -77,4 +77,7 @@
  thefatrat_prelude_vqa:0 "The FatRat prelude version Q&A "
  thefatrat_prelude_vip:0 "The FatRat prelude vip edition"
  thefatrat_timelapse:0 "The FatRat Timelapse"
+ thefatrat_windfall:0 "The FatRat Windfall"
+ thefatrat_xenogenesis:0 "The FatRat Xenogenesis"
+ thefatrat_unity_old:0 "The FatRat Unity Old version"
  #
