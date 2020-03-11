@@ -1,0 +1,10 @@
+
+1.create mod folder using hoi4 launcher
+2.Copy 
+	-gfx
+	-interface
+	-localisation
+	-music
+	-descriptor
+
+to  hoi4 mod folder that created at 1.
