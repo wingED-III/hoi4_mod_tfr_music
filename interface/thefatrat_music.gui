@@ -111,7 +111,7 @@ guiTypes = {
 	}
 
 	containerWindowType={
-		name = "thefatrat_music_stations_entry"
+		name = "thefatrat_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
